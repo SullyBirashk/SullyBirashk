@@ -1,7 +1,16 @@
 ### Hi there 👋
 
-<a href="https://github.com/sullybirashk/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullybirashk&layout=compact&theme=tokyonight" /></a>
+<p align="center">
+<a href="https://github.com/sullybirashk/github-readme-stats"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullybirashk&layout=compact&theme=tokyonight" /></a>
+</p>
+
+<p align="center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sullybirashk&theme=tokyonight" alt="sullybirashk" />
+</p>
+
+<p align="center">
+  <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sullybirashk&theme=nord&show_icons=true" /> 
+</p>
 
 <p align="center">
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
