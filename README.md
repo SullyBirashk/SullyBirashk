@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://github.com/sullybirashk/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullybirashk&layout=compact&theme=tokyonight" /></a>
 <!--
 **SullyBirashk/SullyBirashk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
