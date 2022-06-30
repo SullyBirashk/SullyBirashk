@@ -1,16 +1,11 @@
 ### Hi there 👋
+Welcome to my GitHub!
 
-<p align="center">
-<a href="https://github.com/sullybirashk/github-readme-stats"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullybirashk&layout=compact&theme=tokyonight" /></a>
-</p>
+![text](https://user-images.githubusercontent.com/93055633/176567156-ad4a8b8e-7fc4-4a38-8771-8180f1ed5868.gif)
 
-<p align="center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sullybirashk&theme=tokyonight" alt="sullybirashk" />
-</p>
+<br>
 
-<p align="center">
-  <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sullybirashk&theme=nord&show_icons=true" /> 
-</p>
+<h2 align="center">Skills</h2>
 
 <p align="center">
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
@@ -30,8 +25,46 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
+<br>
+
+<h2 align="center">Currently Learning</h2>
 
 <p align="center">
+<img alt="React" width="10%" src="https://user-images.githubusercontent.com/93055633/176570131-7d839351-4b02-4c2f-b307-a4b487c7944b.svg"/>
+<img alt="JavaScript" width="10%" src="https://user-images.githubusercontent.com/93055633/176570401-aea1592a-42f6-4e06-bfba-b468b318a276.svg"/>
+<img alt="HTML5" width="10%" src="https://user-images.githubusercontent.com/93055633/176570437-c44128c3-ddff-4f67-9c01-3245ce15a87d.svg"/>
+<img alt="Cypress" width="10%" src="https://user-images.githubusercontent.com/93055633/176570471-36ba3c4a-907b-4c80-92d3-8ef51aef1162.svg"/>
+<img alt="Jest" width="10%" src="https://user-images.githubusercontent.com/93055633/176570509-4f43d387-b92f-4efd-bfba-fe5b83e54dbb.svg"/>
+<img alt="AngularJS" width="10%" src="https://user-images.githubusercontent.com/93055633/176570531-163e34ce-9629-41ff-ac36-53efb2326f44.svg"/>
+</p>
+
+<h2 align="center">My GitHub Stats</h2>
+
+<p align="center">
+<a href="https://github.com/sullybirashk/github-readme-stats"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullybirashk&layout=compact&theme=tokyonight" /></a> 
+</p> 
+
+<p align="center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=sullybirashk&theme=tokyonight" alt="sullybirashk" />
+</p>
+
+<p align="center">
+  <img width="50%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sullybirashk&theme=tokyonight&show_icons=true" /> 
+</p>
+
+<br>
+
+<h2 align="center">Visitor Count</h2>
+
+
+Thank you for visiting my page! You are the ![Visitor Count](https://profile-counter.glitch.me/sullybirashk/count.svg)th visitor! Have a great day!
+
+<h2 align="center">Random Meme of the Day</h2>
+
+  
+<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+
+
 <!--
 **SullyBirashk/SullyBirashk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
