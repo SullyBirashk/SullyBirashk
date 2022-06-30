@@ -1,7 +1,13 @@
 ### Hi there 👋
-Welcome to my GitHub!
 
-![text](https://user-images.githubusercontent.com/93055633/176567156-ad4a8b8e-7fc4-4a38-8771-8180f1ed5868.gif)
+<p align="center">
+<img alt="Ruby" src="https://user-images.githubusercontent.com/93055633/176567156-ad4a8b8e-7fc4-4a38-8771-8180f1ed5868.gif"/>
+</p>
+
+<h2 align="center">About Me</h2>
+<p align="center">
+Self Description
+</p>
 
 <br>
 
@@ -25,7 +31,6 @@ Welcome to my GitHub!
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 </p>
-<br>
 
 <h2 align="center">Currently Learning</h2>
 
@@ -57,18 +62,29 @@ Welcome to my GitHub!
 <h2 align="center">Visitor Count</h2>
 
 
-Thank you for visiting my page! You are the ![Visitor Count](https://profile-counter.glitch.me/sullybirashk/count.svg)th visitor! Have a great day!
+Thank you for visiting my profile! You are the ![Visitor Count](https://profile-counter.glitch.me/sullybirashk/count.svg)th visitor! Have a great day! ☀️🌴🌊🤩
 
 <h2 align="center">Random Meme of the Day</h2>
 
   
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
+<h2 align="center">Find me on Social!</h2>
+
+<p align="center">
+ <a href="https://github.com/sullyBirashk">
+    <img src="https://user-images.githubusercontent.com/93055633/176577367-9bb7cee0-1f8b-49e0-b47d-278e56b0f7d8.jpeg" alt="Github Profile" width="75">
+  </a>
+  <a href="mailto:sully.birashk@gmail.com">
+    <img src="https://user-images.githubusercontent.com/93055633/176578122-c3124367-b018-43b5-bdc1-9b030b9bf9b9.png" alt="Email" width="50">
+  </a>
+  <a href="https://www.linkedin.com/in/sully-birashk-a33a15228/">
+    <img src="https://user-images.githubusercontent.com/93055633/176578269-813f5d24-ee16-4499-bb9c-1d5a03c099a8.png" alt="LinkedIn" width="58">
+  </a>
+</p>
+
 
 <!--
-**SullyBirashk/SullyBirashk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
