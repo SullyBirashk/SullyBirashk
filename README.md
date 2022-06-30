@@ -1,12 +1,19 @@
-### Hi there 👋
-
 <p align="center">
 <img alt="Ruby" src="https://user-images.githubusercontent.com/93055633/176567156-ad4a8b8e-7fc4-4a38-8771-8180f1ed5868.gif"/>
 </p>
 
 <h2 align="center">About Me</h2>
 <p align="center">
-Self Description
+Hi, my name is Sully, and my pronouns are he/him. I am a Backend Software Engineer that loves to go to the gym 💪 and solve new challenges 🧩, not particularly in that order. I currently am working on a few side projects to keep my developer skills sharp at all times. I graduated from what I belive to be the best coding bootcamp in the world, Turing School of Software and Design. Facing many challenges, going through a roller coaster of emotions, not just learning a new skill, but also a new lifestyle. I didn't just learn coding at Turing, I also learned time manangement, self improvement, leadership skills, team bonding skills, and so many other skills I could list for hours. Software Development wasn't something I thought I was going to be doing as a career, but I sure am glad I'm finally in the industry always ready to improve as a person, engineer, developer, and student to the endless world of coding.
+</p>
+
+<br>
+
+<h3 align="center">Feel Free To Connect With Me!</h3>
+
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/sully-birashk-a33a15228/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sully.birashk@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
@@ -63,26 +70,6 @@ Self Description
 
 
 Thank you for visiting my profile! You are the ![Visitor Count](https://profile-counter.glitch.me/sullybirashk/count.svg)th visitor! Have a great day! ☀️🌴🌊🤩
-
-<h2 align="center">Random Meme of the Day</h2>
-
-  
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-<h2 align="center">Find me on Social!</h2>
-
-<p align="center">
- <a href="https://github.com/sullyBirashk">
-    <img src="https://user-images.githubusercontent.com/93055633/176577367-9bb7cee0-1f8b-49e0-b47d-278e56b0f7d8.jpeg" alt="Github Profile" width="75">
-  </a>
-  <a href="mailto:sully.birashk@gmail.com">
-    <img src="https://user-images.githubusercontent.com/93055633/176578122-c3124367-b018-43b5-bdc1-9b030b9bf9b9.png" alt="Email" width="50">
-  </a>
-  <a href="https://www.linkedin.com/in/sully-birashk-a33a15228/">
-    <img src="https://user-images.githubusercontent.com/93055633/176578269-813f5d24-ee16-4499-bb9c-1d5a03c099a8.png" alt="LinkedIn" width="58">
-  </a>
-</p>
-
 
 <!--
 
