@@ -6,7 +6,6 @@
 <p align="center">
 Hi, my name is Sully, and my pronouns are he/him. I am a Backend Software Engineer that loves to go to the gym 💪 and solve new challenges 🧩, not particularly in that order. I currently am working on a few side projects to keep my developer skills sharp at all times. I graduated from what I belive to be the best coding bootcamp in the world, Turing School of Software and Design. Facing many challenges, going through a roller coaster of emotions, not just learning a new skill, but also a new lifestyle. I didn't just learn coding at Turing, I also learned time manangement, self improvement, leadership skills, team bonding skills, and so many other skills I could list for hours. Software Development wasn't something I thought I was going to be doing as a career, but I sure am glad I'm finally in the industry always ready to improve as a person, engineer, developer, and student to the endless world of coding.
 </p>
-
 <br>
 
 <h3 align="center">Feel Free To Connect With Me!</h3>
