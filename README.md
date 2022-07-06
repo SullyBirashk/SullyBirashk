@@ -54,6 +54,8 @@ Hi, my name is Sully, and my pronouns are he/him. I am a Backend Software Engine
 
 <h2 align="center">My GitHub Stats</h2>
 
+<br>
+
 <p align="center">
 <a href="https://github.com/sullybirashk/github-readme-stats"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sullybirashk&layout=compact&theme=tokyonight" /></a> 
 </p> 
