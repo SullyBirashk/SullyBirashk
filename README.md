@@ -41,6 +41,8 @@ Hi, my name is Sully, and my pronouns are he/him. I am a Backend Software Engine
 
 <h2 align="center">Currently Learning</h2>
 
+<br>
+
 <p align="center">
 <img alt="React" width="10%" src="https://user-images.githubusercontent.com/93055633/176570131-7d839351-4b02-4c2f-b307-a4b487c7944b.svg"/>
 <img alt="JavaScript" width="10%" src="https://user-images.githubusercontent.com/93055633/176570401-aea1592a-42f6-4e06-bfba-b468b318a276.svg"/>
