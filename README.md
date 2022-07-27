@@ -72,6 +72,7 @@ Hi, my name is Sully, and my pronouns are he/him. I am a Backend Software Engine
 
 <h2 align="center">Visitor Count</h2>
 
+<br>
 
 Thank you for visiting my profile! You are the ![Visitor Count](https://profile-counter.glitch.me/sullybirashk/count.svg)th visitor! Have a great day! ☀️🌴🌊🤩
 
