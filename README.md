@@ -4,8 +4,17 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-Hi, my name is Sully, I am a Backend Software Engineer that loves to go to the gym 💪 and solve new challenges 🧩, not particularly in that order. I currently am working on a few side projects to keep my developer skills sharp at all times. I graduated from what I belive to be the best coding bootcamp in the world, Turing School of Software and Design. Facing many challenges, going through a roller coaster of emotions, not just learning a new skill, but also a new lifestyle. I didn't just learn coding at Turing, I also learned time manangement, self improvement, leadership skills, team bonding skills, and so many other skills I could list for hours. Software Development wasn't something I thought I was going to be doing as a career, but I sure am glad I'm finally in the industry always ready to improve as a person, engineer, developer, and student to the endless world of coding.
-</p>
+Hi, I’m Sully — a Backend Software Engineer with a passion for solving complex problems and continuously improving both personally and professionally.
+
+I thrive on challenges, whether it’s debugging an elusive bug or pushing my limits in the gym. I’m currently working on several side projects to sharpen my skills and stay up to date with the ever-evolving tech landscape.
+
+I’m a proud graduate of the Turing School of Software & Design — a place that didn’t just teach me how to code, but transformed the way I think, work, and grow. It was more than a bootcamp; it was a complete shift in lifestyle. Through countless challenges and moments of growth, I gained not only technical expertise but also invaluable skills in time management, leadership, collaboration, and self-discipline.
+
+Software development wasn’t the career path I originally envisioned, but it’s become a space where I feel both challenged and fulfilled. I approach each day as a student of the craft — eager to learn, build, and become a better engineer.
+
+⸻
+
+If you’d like, I can tailor it more specifically to highlight certain technologies you work with, your side projects, or even format it with sections like Tech Stack, Current Projects, or Goals. Let me know</p>
 
 <br>
 
